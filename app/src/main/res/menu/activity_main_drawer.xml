@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home_icon"
+            android:title="@string/menu_home"
+            android:background="@color/white"/>
+        <item
+            android:id="@+id/nav_completed"
+            android:icon="@drawable/completed_icon"
+            android:title="@string/completed"
+            android:background="@color/white"/>
+        <item
+            android:id="@+id/nav_createNewTodo"
+            android:icon="@drawable/add_icon"
+            android:title="@string/create_new_to_do"
+            android:background="@color/white"/>
+
+        <item
+            android:id="@+id/nav_todo"
+            android:visible="false"/>
+    </group>
+</menu>

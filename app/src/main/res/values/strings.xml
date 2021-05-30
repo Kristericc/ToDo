@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Todo</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="email">E-Mail</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="completed">Completed</string>
+    <string name="create_new_to_do">Create New To-Do</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="low">Low</string>
+    <string name="completedTodo">Completed Todo`s</string>
+    <string name="createNewTodo">Create New Todo</string>
+    <string name="todo">My ToDo</string>
+    <string name="sort_by_date">Sort By Date</string>
+    <string name="sort_by_importance">Sort By Importance</string>
+    <string name="log_out">Log Out</string>
+    <string name="close">Close</string>
+    <string name="create">Create</string>
+
+    <string-array name="importance">
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </string-array>
+</resources>
